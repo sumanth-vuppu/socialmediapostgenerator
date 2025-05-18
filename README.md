@@ -66,7 +66,7 @@ SLACK_WEBHOOK_URL=<YOUR_SLACK_INCOMING_WEBHOOK_URL>
 
    ```bash
    git https://github.com/sumanth-vuppu/socialmediapostgenerator.git
-   cd socialmediapostgenerator-main
+   cd socialmediapostgenerator/
    ```
 
 2. **Install dependencies**
